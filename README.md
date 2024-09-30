@@ -1,5 +1,7 @@
- Crud JPA y Oracle
+Crud JPA y Oracle
+
 Función Base De Datos
+
 create or replace NONEDITIONABLE function asignar_comision(
     n_sales in number)
     return VARCHAR2
